@@ -1,3 +1,4 @@
 (1) initial repo
 (2) diff
 (3) try version reset
+(4) try commit -a
