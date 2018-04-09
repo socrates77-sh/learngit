@@ -2,3 +2,5 @@
 (2) diff
 (3) try version reset
 (4) try commit -a
+(5) diff
+(6) diff HEAD
