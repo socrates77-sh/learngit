@@ -7,3 +7,4 @@
 (7) modify but not add
 (8) modify after add
 (9) from stage to workspace
+(10) switch to dev and commit a new version
