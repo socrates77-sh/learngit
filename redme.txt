@@ -4,3 +4,6 @@
 (4) try commit -a
 (5) diff
 (6) diff HEAD
+(7) modify but not add
+(8) modify after add
+(9) from stage to workspace
